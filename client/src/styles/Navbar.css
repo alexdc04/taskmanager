@@ -2,7 +2,15 @@
     background-color: #23d8fc;
 }
 
-.navtext {
-    font-family: sans-serif;
+.navbutton {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
     color: #000000;
+    background-color: #23d8fc;
+    padding: 10px 20px;
+    border: none;
+}
+
+.navbutton:hover {
+    background-color: #43dcfa;
 }
